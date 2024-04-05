@@ -1,0 +1,23 @@
+{
+  "name": "27numberguessinggame",
+  "version": "1.0.0",
+  "description": "\"number guessing game\"",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "numberguessinggame": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fiza",
+  "license": "ISC",
+  "keywords": [],
+  "devDependencies": {
+    "@types/node": "^20.11.30"
+  },
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.2.16"
+  }
+}
